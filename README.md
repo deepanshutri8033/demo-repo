@@ -1,2 +1,2 @@
 # demo-repo
-This is Demo remo
+This is Demo remo.
